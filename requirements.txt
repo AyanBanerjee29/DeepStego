@@ -3,3 +3,6 @@ torchvision
 numpy
 Pillow
 matplotlib
+requests
+qrcode
+streamlit
